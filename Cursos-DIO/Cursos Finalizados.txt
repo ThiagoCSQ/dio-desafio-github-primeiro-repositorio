@@ -1,0 +1,12 @@
+- Fundamentos de Qualidade e Desenvolvimento de Software
+
+- Introdução ao desenvolvimento Moderno de Software
+
+- Introdução ao Mercado de Qualidade de Software
+
+- Fundamentos de Qualidade de Software
+  Metodologias Ágeis e Ciclo de Desenvolvimento de Software
+
+- O Caminho para a Certificação CFTL
+
+- Introdução ao Git e ao GitHub
